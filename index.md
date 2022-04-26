@@ -4,7 +4,7 @@
 
 ### Data Mining 
 
-[Topic Modelling On News Weblinks Using the Latent Dirichlet Allocation (LDA Model)](Machine Learning/LDA Topic Modelling on News Pages_FINAL.html)
+[Topic Modelling On News Weblinks Using the Latent Dirichlet Allocation (LDA Model)](Machine%20Learning/LDA Topic Modelling on News Pages_FINAL.html)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
