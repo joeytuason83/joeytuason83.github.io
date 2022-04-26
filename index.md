@@ -5,6 +5,10 @@
 ## Data Mining, Machine Learning and AI Models
 
 [Topic Modelling On News Weblinks Using the Latent Dirichlet Allocation (LDA Model)](https://github.com/joeytuason83/joeytuason.github.io/blob/0787bcb38665ace91dae958de081eb568b8b2338/Machine%20Learning/LDA%20Topic%20Modelling%20on%20News%20Pages_FINAL.ipynb)
+
+Given a collection of news website article links, can we be able to identify topics which will aptly describe these beyond their given category? In this project we explore unsupervised learning in NLP which would help us determine the underlying clusters using Topic Modelling via the Latent Dirichlet Allocation model.
+
+We performed data cleaning, processing, EDA (using Word Cloud, Word Frequency) and executed the model and found desirable results. This was submitted as the final requirement of the Data Mining class.
 <img src="images/wordcloud.png?raw=true"/>
 
 ---
