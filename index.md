@@ -22,6 +22,7 @@ We performed data cleaning, processing, EDA (using Word Cloud, Word Frequency) a
 ## Other Scripts and Automations Done (Python, R)
 
 [Data Reading](https://github.com/joeytuason83/joeytuason83.github.io/blob/9d899ae8acb82b75a68ed409f8ae00214ec28546/Scripts/Loading%20Datasets%20(Data%20Mining%20Week%202).ipynb)
+
 Good reference for beginners learning to injest data into Jupyter notebook. This was the first exercise in Data Mining class week 2. Added new codes learned after submission (eg. import warnings). 
 The following were done:
 1. read_csv: commonly used to load csv files but was used but not on csv files; used additional lines of code to consider header and row index
