@@ -23,6 +23,6 @@
 
 ## How to Create a Github Page
 
-Combining resources from [chriskhanhtran's github page](https://chriskhanhtran.github.io/_posts/2020-01-13-portfolio-tutorial/) and [github doc](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site) for easier reference. Click [here](makegithubpage) for the link.
+Combining resources from [chriskhanhtran's github page](https://chriskhanhtran.github.io/_posts/2020-01-13-portfolio-tutorial/) and [github doc](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site) for easier reference. Click [here](makegithubpage.html) for the link.
 
 ---
