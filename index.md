@@ -13,7 +13,7 @@ We performed data cleaning, processing, EDA (using Word Cloud, Word Frequency) a
 
 ---
 
-## Data Visualizations and Storytelling
+## Statistical Models, EDA: Data Visualizations and Storytelling
 
 - coming soon
 
