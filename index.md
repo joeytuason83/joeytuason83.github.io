@@ -19,9 +19,7 @@ Given a collection of news website article links, can we be able to identify top
 
 ## Other Scripts and Automations Done (Python, R)
 
-[Data Reading](https://github.com/joeytuason83/joeytuason83.github.io/blob/9d899ae8acb82b75a68ed409f8ae00214ec28546/Scripts/Loading%20Datasets%20(Data%20Mining%20Week%202).ipynb)
-
-Good reference for beginners learning to injest data into Jupyter notebook. 
+[Data Reading](https://github.com/joeytuason83/joeytuason83.github.io/blob/9d899ae8acb82b75a68ed409f8ae00214ec28546/Scripts/Loading%20Datasets%20(Data%20Mining%20Week%202).ipynb): Good reference for beginners learning to injest data into Jupyter notebook. 
 
 ---
 
