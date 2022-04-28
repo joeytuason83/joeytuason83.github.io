@@ -5,7 +5,7 @@ Always on the fly but need to do that homework due before midnight? Fret not! Th
 ## 1 Install Pydroid 3 from the Google Playstore
 ![image](https://user-images.githubusercontent.com/40331047/165655018-e7438457-a4c2-424a-8c10-0e2960bb190d.png)
 
-## 2 Open the App.
+## 2 Open the App
 
 Click the upper left side (the one with the three lines) to bring up the menu.
 
