@@ -1,5 +1,6 @@
 # Data Science Portfolio
-
+![Joey's GitHub stats](https://github-readme-stats.vercel.app/api?username=joeytuason83&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joeytuason83)
 ---
 
 ## Data Mining, Machine Learning and AI Models
