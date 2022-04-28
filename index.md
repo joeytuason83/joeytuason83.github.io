@@ -1,6 +1,6 @@
 # Data Science Portfolio
 ![Joey's GitHub stats](https://github-readme-stats.vercel.app/api?username=joeytuason83&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joeytuason83)
+
 ---
 
 ## Data Mining, Machine Learning and AI Models
@@ -35,3 +35,5 @@ Combining resources from [chriskhanhtran's github page](https://chriskhanhtran.g
 Learn to use your phone to do and update your notebooks.
 
 ---
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joeytuason83)
