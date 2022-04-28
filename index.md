@@ -25,8 +25,14 @@ Good reference for beginners learning to injest data into Jupyter notebook.
 
 ---
 
-## How to Create a Github Page
+## Tips & Tricks
 
-Combining resources from [chriskhanhtran's github page](https://chriskhanhtran.github.io/_posts/2020-01-13-portfolio-tutorial/) and [github doc](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site) for easier reference. Click [here](makegithubpage.html) for the link.
+### [How to Create a Github Page](makegithubpage.html)
+
+Combining resources from [chriskhanhtran's github page](https://chriskhanhtran.github.io/_posts/2020-01-13-portfolio-tutorial/) and [github doc](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site) for easier reference.
+
+### [How to Run Jupyter Notebook in Android Phone](jupyterinandroid.html)
+
+Learn to use your phone to do and update your notebooks.
 
 ---
