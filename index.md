@@ -16,16 +16,17 @@ Given a collection of news website article links, can we be able to identify top
 
 ## Statistical Models, EDA: Data Visualizations and Storytelling
 
-- coming soon
+[Ratings on Google Playstore Apps](https://github.com/joeytuason83/joeytuason83.github.io/blob/d57ef5a8beb7a6283e7cabfe7f5703040fb523f6/Data%20Visualization/Individual%20Dataset-PythonicVizes_0507.ipynb)
+
+![image](https://user-images.githubusercontent.com/40331047/167305246-8f2c57fa-842e-44cf-b029-2d75bf84eb2c.png)
+
 
 ---
 
 ## Other Scripts and Automations Done (Python, R)
 
-[Data Reading](https://github.com/joeytuason83/joeytuason83.github.io/blob/9d899ae8acb82b75a68ed409f8ae00214ec28546/Scripts/Loading%20Datasets%20(Data%20Mining%20Week%202).ipynb): Good reference for beginners learning to injest data into Jupyter notebook. 
+[Data Reading](https://github.com/joeytuason83/joeytuason83.github.io/blob/d57ef5a8beb7a6283e7cabfe7f5703040fb523f6/Scripts/Loading%20Datasets.ipynb): Good reference for beginners learning to injest data into Jupyter notebook. 
 
-[Read ARFF File](https://github.com/joeytuason83/joeytuason83.github.io/blob/8e498beca63a55de43a6a5310127fb22d647061f/Machine%20Learning/Loading%20the%20Airline%20Dataset%20from%20OpenML.ipynb)
-Good reference to read an ARFF file if your data is from OpenML.org. Also converts ARFF to a pandas dataframe.
 
 ---
 
