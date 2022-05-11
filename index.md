@@ -1,7 +1,7 @@
 # Data Science Portfolio
 ![Joey's GitHub stats](https://github-readme-stats.vercel.app/api?username=joeytuason83&show_icons=true)
 
-[Summary](README.html)
+[Summary](https://github.com/joeytuason83)
 
 ---
 
@@ -10,15 +10,12 @@
 [Topic Modelling On News Weblinks Using the Latent Dirichlet Allocation (LDA Model)](https://github.com/joeytuason83/joeytuason.github.io/blob/0787bcb38665ace91dae958de081eb568b8b2338/Machine%20Learning/LDA%20Topic%20Modelling%20on%20News%20Pages_FINAL.ipynb)
 
 Given a collection of news website article links, can we be able to identify topics which will aptly describe these beyond their given category? Let's use Latent Dirichlet Allocation model.
-<img src="images/wordcloud.png?raw=true"/>
 
 ---
 
 ## Statistical Models, EDA: Data Visualizations and Storytelling
 
-[Ratings on Google Playstore Apps](https://github.com/joeytuason83/joeytuason83.github.io/blob/d57ef5a8beb7a6283e7cabfe7f5703040fb523f6/Data%20Visualization/Individual%20Dataset-PythonicVizes_0507.ipynb)
-
-![image](https://user-images.githubusercontent.com/40331047/167305246-8f2c57fa-842e-44cf-b029-2d75bf84eb2c.png)
+Ratings on Google Play Store Apps: [Notebook](https://github.com/joeytuason83/joeytuason83.github.io/blob/d57ef5a8beb7a6283e7cabfe7f5703040fb523f6/Data%20Visualization/Individual%20Dataset-PythonicVizes_0507.ipynb) | [Storytelling Deck](https://github.com/joeytuason83/joeytuason83.github.io/blob/4c252ed1d75becccd87ac95f2e7bd9cf69cb84b6/Data%20Visualization/Google%20Play%20Store%20Ratings_05112022.pptx)
 
 
 ---
