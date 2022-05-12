@@ -7,9 +7,7 @@
 
 ## Data Mining, Machine Learning and AI Models
 
-[Topic Modelling On News Weblinks Using the Latent Dirichlet Allocation (LDA Model)](https://github.com/joeytuason83/joeytuason.github.io/blob/0787bcb38665ace91dae958de081eb568b8b2338/Machine%20Learning/LDA%20Topic%20Modelling%20on%20News%20Pages_FINAL.ipynb)
-
-Given a collection of news website article links, can we be able to identify topics which will aptly describe these beyond their given category? Let's use Latent Dirichlet Allocation model.
+Topic Modelling On News Weblinks Using the Latent Dirichlet Allocation (LDA Model): [Notebook](https://github.com/joeytuason83/joeytuason.github.io/blob/0787bcb38665ace91dae958de081eb568b8b2338/Machine%20Learning/LDA%20Topic%20Modelling%20on%20News%20Pages_FINAL.ipynb)
 
 ---
 
@@ -22,7 +20,7 @@ Ratings on Google Play Store Apps: [Notebook](https://github.com/joeytuason83/jo
 
 ## Other Scripts and Automations Done (Python, R)
 
-[Data Reading](https://github.com/joeytuason83/joeytuason83.github.io/blob/d57ef5a8beb7a6283e7cabfe7f5703040fb523f6/Scripts/Loading%20Datasets.ipynb): Good reference for beginners learning to injest data into Jupyter notebook. 
+Reading different datasets in Jupyter: [Notebook](https://github.com/joeytuason83/joeytuason83.github.io/blob/d57ef5a8beb7a6283e7cabfe7f5703040fb523f6/Scripts/Loading%20Datasets.ipynb)
 
 
 ---
