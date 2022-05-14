@@ -23,7 +23,7 @@ Ratings on Google Play Store Apps: [Notebook](https://github.com/joeytuason83/jo
 Reading different datasets in Jupyter: [Notebook](https://github.com/joeytuason83/joeytuason83.github.io/blob/d57ef5a8beb7a6283e7cabfe7f5703040fb523f6/Scripts/Loading%20Datasets.ipynb)
 
 
-Use tabula package to extract table from pdf. Dataset used is PH 2022 Overseas Voting. [Notebook](https://github.com/joeytuason83/joeytuason83.github.io/blob/be03266331086d9774487bc890e885a8d693a6d7/Scripts/pdf_scrapper.ipynb)
+Use tabula package to extract table from pdf. Dataset used is on overseas voting demographics for 2022 PH elections. [Notebook](https://github.com/joeytuason83/joeytuason83.github.io/blob/be03266331086d9774487bc890e885a8d693a6d7/Scripts/pdf_scrapper.ipynb)
 
 ---
 
