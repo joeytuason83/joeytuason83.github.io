@@ -5,11 +5,12 @@ This github page contains works of Joey Tuason ranging from R to Python scripts.
 ## Project Summary
 | Project | Description | Version | Date | Path |
 | :--- | :--- | :---: | :---: | :---: |
-| News Website Links | First NLP Project using LDA | 1 | 24.04.2022 | [Link](https://github.com/joeytuason83/joeytuason.github.io/blob/0787bcb38665ace91dae958de081eb568b8b2338/Machine%20Learning/LDA%20Topic%20Modelling%20on%20News%20Pages_FINAL.ipynb) |
-| Data Reading  | Notebook on reading different datasets online and offline | 3 | 05.05.2022 | [Link](https://github.com/joeytuason83/joeytuason83.github.io/blob/b4cf9f97ffff05b0f5d57690b5b14fea816279a9/Scripts/Loading%20Datasets.ipynb) |
-| Google Play Store Apps | My first official data visualization notebook from class. Will keep updating this in the next few weeks. | 2 | 08.05.2022 | [Link](https://github.com/joeytuason83/joeytuason83.github.io/blob/4c252ed1d75becccd87ac95f2e7bd9cf69cb84b6/Data%20Visualization/Individual%20Dataset-Storytelling%20Deck-0511.ipynb) |
-| Google Play Store Apps - Storytelling Deck | My first official data visualization storytelling deck from class. | 1 | 11.05.2022 | [Link](https://github.com/joeytuason83/joeytuason83.github.io/blob/4c252ed1d75becccd87ac95f2e7bd9cf69cb84b6/Data%20Visualization/Google%20Play%20Store%20Ratings_05112022.pptx) |
+| Elections PH 2022 | Different viz on the elections 2022 PH dataset for slide deck. | 1 | 24.05.2022 | [Link](https://github.com/joeytuason83/joeytuason83.github.io/blob/d1bf23f3bb38cc10c9662ccd6cf7041b2f1cafe2/Data%20Visualization/Educate%20Without%20the%20Need%20to%20be%20an%20Elitist%20-%20An%20Election%202022%20PH%20Story%20Deck%20-%20Dashboard.ipynb) |
 | PDF Scrapper | Used tabula package to extract table from pdf. Dataset used is on overseas voting demographics for 2022 PH elections. | 1 | 14.05.2022 | [Link](https://github.com/joeytuason83/joeytuason83.github.io/blob/be03266331086d9774487bc890e885a8d693a6d7/Scripts/pdf_scrapper.ipynb) |
+| Google Play Store Apps - Storytelling Deck | My first official data visualization storytelling deck from class. | 1 | 11.05.2022 | [Link](https://github.com/joeytuason83/joeytuason83.github.io/blob/4c252ed1d75becccd87ac95f2e7bd9cf69cb84b6/Data%20Visualization/Google%20Play%20Store%20Ratings_05112022.pptx) |
+| Google Play Store Apps | My first official data visualization notebook from class. Will keep updating this in the next few weeks. | 2 | 08.05.2022 | [Link](https://github.com/joeytuason83/joeytuason83.github.io/blob/4c252ed1d75becccd87ac95f2e7bd9cf69cb84b6/Data%20Visualization/Individual%20Dataset-Storytelling%20Deck-0511.ipynb) |
+| Data Reading  | Notebook on reading different datasets online and offline | 3 | 05.05.2022 | [Link](https://github.com/joeytuason83/joeytuason83.github.io/blob/b4cf9f97ffff05b0f5d57690b5b14fea816279a9/Scripts/Loading%20Datasets.ipynb) |
+| News Website Links | First NLP Project using LDA | 1 | 24.04.2022 | [Link](https://github.com/joeytuason83/joeytuason.github.io/blob/0787bcb38665ace91dae958de081eb568b8b2338/Machine%20Learning/LDA%20Topic%20Modelling%20on%20News%20Pages_FINAL.ipynb) |
 
 ## Contact
 
