@@ -35,8 +35,7 @@ This would be good but if you close your notebook or reach the 12-hr limit of Go
 ### 2 Put in a Google drive folder
 This is the safe way. Although it is pesky that the Google prompt will always pop when you rerun your notebook. But hey, it's safe!
 
-![image](https://user-images.githubusercontent.com/40331047/170914978-d683bb73-86e4-4393-8afb-4560b27ecfca.png)
-<br> *It can take a while if you have large files in your folder.*
+![image](https://user-images.githubusercontent.com/40331047/170916670-e6e63a73-27c8-480e-b3c5-ca24e7d8c0af.png)
 
 <br> These will always appear when you rerun the code... brace yourselves:
 ![image](https://user-images.githubusercontent.com/40331047/170914768-ee8892f0-ff7c-4d6a-80ed-9deaa7e4b39a.png)
