@@ -31,6 +31,10 @@ Use tabula package to extract table from pdf. Dataset used is on overseas voting
 
 ## Tips & Tricks
 
+### [Load Files Fast in Google Colab](loadfastgooglecolab.html)
+
+Just make sure you make your notebook private for sensitive datasets.
+
 ### [How to Create a Github Page](makegithubpage.html)
 
 Combining resources from [chriskhanhtran's github page](https://chriskhanhtran.github.io/_posts/2020-01-13-portfolio-tutorial/) and [github doc](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site) for easier reference.
