@@ -7,6 +7,7 @@
 
 ## Data Mining, Machine Learning and AI Models
 
+HR Employee Retention and Attrition (k-prototype clustering, SHAP analysis, Decision Tree): [Project Folder](https://github.com/joeytuason83/joeytuason83.github.io/tree/main/Machine%20Learning/BIA_HR%20Analytics) <br>
 Topic Modelling On News Weblinks Using the Latent Dirichlet Allocation (LDA Model): [Notebook](https://github.com/joeytuason83/joeytuason.github.io/blob/0787bcb38665ace91dae958de081eb568b8b2338/Machine%20Learning/LDA%20Topic%20Modelling%20on%20News%20Pages_FINAL.ipynb)
 
 ---
