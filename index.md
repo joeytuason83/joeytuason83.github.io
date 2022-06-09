@@ -12,6 +12,7 @@ Topic Modelling On News Weblinks Using the Latent Dirichlet Allocation (LDA Mode
 ---
 
 ## Statistical Models, EDA: Data Visualizations & Dashboards and Storytelling
+Jumping the Next Hurdle: [Project Folder](https://github.com/joeytuason83/joeytuason83.github.io/tree/main/Data%20Visualization/WDI_PH%20Project) <br>
 Educate without the Need to be an Elitist (An Election 2022 PH Data Exploration): [Notebook](https://github.com/joeytuason83/joeytuason.github.io/blob/0787bcb38665ace91dae958de081eb568b8b2338/Machine%20Learning/LDA%20Topic%20Modelling%20on%20News%20Pages_FINAL.ipynb) | [Dashboard](https://github.com/joeytuason83/joeytuason83.github.io/blob/b58672a992c19adef5810069314a7da6f273625f/Data%20Visualization/2022%20Elections%20Dashboard_Group%202.pbix)
 <br>
 Big Mart Descriptive Analytics: [Notebook](https://colab.research.google.com/drive/1hHBpY2GVa1k23Ld6mzJLcYN7yKjPh1c5?usp=sharing)
