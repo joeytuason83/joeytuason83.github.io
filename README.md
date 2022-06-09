@@ -5,6 +5,7 @@ This github page contains works of Joey Tuason ranging from R to Python scripts.
 ## Project Summary
 | Project | Description | Version | Date | Path |
 | :--- | :--- | :---: | :---: | :---: |
+| HR Analytics on Employee Retention and Attrition | Using k-prototype and Decision Tree, me, Jam Flores and Alex Gamboa investigated dataset on a particular company's employee staying and leaving | 1 | 04.06.2022 | [Link](https://github.com/joeytuason83/joeytuason83.github.io/tree/main/Machine%20Learning/BIA_HR%20Analytics) |
 | Jumping the Next Hurdle | Dashboard and slide deck on Philippines' standing on WDI vs neighboring Asian countries | 1 | 04.06.2022 | [Link](https://github.com/joeytuason83/joeytuason83.github.io/tree/main/Data%20Visualization/WDI_PH%20Project) |
 | Elections PH 2022 - Dashboard | Dashboard on the elections 2022 PH dataset + dataset from DOE & WDI | 1 | 27.05.2022 | [Link](https://github.com/joeytuason83/joeytuason83.github.io/blob/5f337a3cd8830c509bb64ecb772e347214e24e6e/Data%20Visualization/2022%20Elections%20Dashboard_Group%202.pbix) |
 | Elections PH 2022 | Different viz on the elections 2022 PH dataset for slide deck. | 1 | 24.05.2022 | [Link](https://github.com/joeytuason83/joeytuason83.github.io/blob/d1bf23f3bb38cc10c9662ccd6cf7041b2f1cafe2/Data%20Visualization/Educate%20Without%20the%20Need%20to%20be%20an%20Elitist%20-%20An%20Election%202022%20PH%20Story%20Deck%20-%20Dashboard.ipynb) |
