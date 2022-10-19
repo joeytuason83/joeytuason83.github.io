@@ -1,4 +1,4 @@
-# Data Science Portfolio
+# Portfolio
 ![Joey's GitHub stats](https://github-readme-stats.vercel.app/api?username=joeytuason83&show_icons=true)
 
 [Summary](https://github.com/joeytuason83)
