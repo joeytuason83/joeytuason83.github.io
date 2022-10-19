@@ -1,6 +1,6 @@
-# Joey Tuason: Data Science Portfolio Readme
+# Joey Tuason: Portfolio Readme
 
-This github page contains works of Joey Tuason ranging from R to Python scripts.
+This github page contains works of Joey Tuason.
 
 ## Project Summary
 | Project | Description | Version | Date | Path |
